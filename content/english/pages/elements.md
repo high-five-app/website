@@ -65,7 +65,7 @@ example.com (but not on Github, for example).
 Some text to show that the reference links can follow later.
 
 [arbitrary case-insensitive reference text]: https://www.themefisher.com
-[1]: https://gethugothemes.com
+[1]: https://getHighFivethemes.com
 [link text itself]: https://www.getjekyllthemes.com
 
 <hr>
