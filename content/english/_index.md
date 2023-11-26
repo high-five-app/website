@@ -2,11 +2,11 @@
 # Banner
 banner:
   title: "The Ultimate App to rediscover your Social Animal"
-  content: "HighFive is a free starter template built with HighFive and TailwindCSS, providing everything you need to jumpstart your HighFive project and save valuable time."
+  content: "HighFive allows you too reclaim your social life, meet new interesting people and ultimately make your life more fulfilling by creating long-lasting meaningful social connections."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
+    label: "Claim Your Username Now"
     link: "https://github.com/zeon-studio/HighFive"
 
 # Features
