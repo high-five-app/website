@@ -2,11 +2,11 @@
 # Banner
 banner:
   title: "The Ultimate App to rediscover your Social Animal"
-  content: "HighFive allows you too reclaim your social life, meet new interesting people and ultimately make your life more fulfilling by creating long-lasting meaningful social connections."
+  content: "HighFive allows you to reclaim your social life, meet new interesting people and ultimately make your life more fulfilling by creating long-lasting meaningful social connections."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Claim Your Username Now"
+    label: "Claim Username Now"
     link: "https://github.com/zeon-studio/HighFive"
 
 # Features
